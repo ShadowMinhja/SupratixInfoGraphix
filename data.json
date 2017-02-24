@@ -1,0 +1,115 @@
+{
+  "name": "root",
+  "children": [
+    {
+      "name": "LEARNING STORY",
+      "size": 3500,
+      "subtitle": "Conduct courses in the form of a ''learning story''",
+      "subtitle2": "according to specific target groups. Explain your subject",
+      "subtitle3": "area in your own individual courses and achieve your students to their goal with an award reward.",
+      "subtitle4": "Accompany them with the help of a history of your specialized knowledge to secure your company's",
+      "subtitle5": "professionals and prospects.",
+      "subtitle6": "",
+      "subtitle7": "",
+      "subtitle8": ""
+    },
+    {
+      "name": "CLOUD-COMPUTING",
+      "size": 3500,
+      "subtitle": "Build apps with high performance and cloud simulations for",
+      "subtitle2": "everyone in the world.",
+      "subtitle3": "Industry 4.0, IoT or BigData our APIs are for every",
+      "subtitle4": "application.",
+      "subtitle5": "",
+      "subtitle6": "",
+      "subtitle7": "",
+      "subtitle8": ""
+    },
+    {
+      "name": "TEACHING",
+      "size": 3500,
+      "subtitle": "Scheduling",
+      "subtitle2": "Realisation",
+      "subtitle3": "Postprocessing",
+      "subtitle4": "",
+      "subtitle5": "",
+      "subtitle6": "",
+      "subtitle7": "",
+      "subtitle8": ""
+    },
+    {
+      "name": "FACTORY",
+      "size": 3500,
+      "subtitle": "Webeditor for HTML 5",
+      "subtitle2": "Technical Standards",
+      "subtitle3": "Content API's",
+      "subtitle4": "",
+      "subtitle5": "",
+      "subtitle6": "",
+      "subtitle7": "",
+      "subtitle8": ""
+    },
+    {
+      "name": "SKILL MANAGEMENT",
+      "size": 3500,
+      "subtitle": "Something magical happens when you use",
+      "subtitle2": "SupraTix for training. Define job personas,",
+      "subtitle3": "competence profiles and see the development wishes",
+      "subtitle4": "of your employees. Use the intelligent learning platform for",
+      "subtitle5": "individual skill development. And the position your employees",
+      "subtitle6": "need to work becomes the position they'd love to work.",
+      "subtitle7": "",
+      "subtitle8": ""
+    },
+    {
+      "name": "MARKET PLACE",
+      "size": 3500,
+      "subtitle": "The store lets you easily deliver commercial and",
+      "subtitle2": "noncommercial e-learning content",
+      "subtitle3": "to users around the world.",
+      "subtitle4": "",
+      "subtitle5": "",
+      "subtitle6": "",
+      "subtitle7": "",
+      "subtitle8": ""
+    },
+    {
+      "name": "EXPERIMENT KIT",
+      "size": 3500,
+      "subtitle": "With the experiment kits of SupraTix",
+      "subtitle2": "real and virtual worlds merge. Experiment kits contain",
+      "subtitle3": "experiments on your subjects. Place your topics, look out",
+      "subtitle4": "for talents and enhance your recruitment.",
+      "subtitle5": "",
+      "subtitle6": "",
+      "subtitle7": "",
+      "subtitle8": ""
+    },
+    {
+      "name": "LEARNING CONTENT",
+      "size": 3500,
+      "subtitle": "Learning content formats such as",
+      "subtitle2": "interactive animations",
+      "subtitle3": "virtual worlds (e.g. VR)",
+      "subtitle4": "videos (e.eg. whiteboard-animation)",
+      "subtitle5": "simulations and learning games (serious games)",
+      "subtitle6": "mobile learning with smartphones and tablets",
+      "subtitle7": "the integration of social networks",
+      "subtitle8": "and context-based micro-learning."
+    },
+    {
+      "name": "LEARNING SOLUTION",
+      "size": 3500,
+      "subtitle": "The learning solution combines technology and",
+      "subtitle2": "modern learning methods across the entire",
+      "subtitle3": "education chain. In general schools, universities,",
+      "subtitle4": "in-company training or as part of informal lifelong",
+      "subtitle5": "learning, learning solutions offer individual and",
+      "subtitle6": "interactive learning processes.",
+      "subtitle7": "",
+      "subtitle8": ""
+    }
+  ],
+  "nbFiles": 81,
+  "size": 8778
+}
